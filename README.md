@@ -1,1 +1,8 @@
-# hello-github
+# 你好-GitHub
+
+这是我的第一个 GitHub 仓库，用来学习 Git 和 GitHub。
+
+## 关于我
+
+- 正在学 Git 和 GitHub
+- 这是我在网页上做的第一次提交
